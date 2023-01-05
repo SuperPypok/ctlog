@@ -1,0 +1,41 @@
+[16:51:25.608][INFO]: Successfully injected RecipeFS file system
+[16:51:25.726][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
+[16:51:25.730][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[16:51:25.734][INFO]: Successfully identified and loaded plugin mekanism:crt_plugin
+[16:51:28.544][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
+[16:51:28.548][INFO]: - 'crafttweaker' at version '10.0.24'
+[16:51:28.548][INFO]: - 'foregoing_tweaker' at version '1.19.2-1.1.5'
+[16:51:28.548][INFO]: - 'mekanism' at version '10.3.5'
+[16:51:44.514][INFO]: Started loading scripts for loader 'mekanismcontent'
+[16:51:44.983][INFO]: Compiling and executing scripts
+[16:51:45.617][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[16:51:45.791][INFO]: Execution for loader 'mekanismcontent' completed successfully
+[16:51:45.791][INFO]: Registering 0 custom gases.
+[16:51:45.798][INFO]: Registering 0 custom infuse types.
+[16:51:45.810][INFO]: Registering 0 custom pigments.
+[16:51:45.816][INFO]: Registering 0 custom robit skins.
+[16:51:45.823][INFO]: Registering 0 custom slurries.
+[16:51:56.065][INFO]: Started loading scripts for loader 'initialize'
+[16:51:56.092][INFO]: Compiling and executing scripts
+[16:51:56.093][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[16:51:56.103][INFO]: Execution for loader 'initialize' completed successfully
+[16:53:53.921][INFO]: Started loading scripts for loader 'tags'
+[16:53:53.941][INFO]: Compiling and executing scripts
+[16:53:53.947][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[16:53:53.959][INFO]: Execution for loader 'tags' completed successfully
+[16:53:57.581][INFO]: Started loading scripts for loader 'crafttweaker'
+[16:53:57.593][INFO]: Compiling and executing scripts
+[16:53:57.709][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[16:53:57.710][INFO]: Loading file 'CraftTweaker.zs' with priority 0
+[16:53:57.716][INFO]: Loading file 'ForegoingTweaker.zs' with priority 0
+[16:53:57.757][ERROR]: ForegoingTweaker.zs:10:96: Could not cast KnownTag<ItemDefinition> to IItemStack
+[16:53:57.759][ERROR]: ForegoingTweaker.zs:11:86: Could not cast KnownTag<ItemDefinition> to IItemStack
+[16:53:57.759][ERROR]: ForegoingTweaker.zs:11:86: Could not cast KnownTag<ItemDefinition> to IItemStack
+[16:53:57.759][ERROR]: ForegoingTweaker.zs:11:86: Could not cast KnownTag<ItemDefinition> to IItemStack
+[16:53:57.759][ERROR]: ForegoingTweaker.zs:12:93: Could not cast KnownTag<ItemDefinition> to IItemStack
+[16:53:57.759][ERROR]: ForegoingTweaker.zs:12:93: Could not cast KnownTag<ItemDefinition> to IItemStack
+[16:53:57.759][ERROR]: ForegoingTweaker.zs:13:95: Could not cast KnownTag<ItemDefinition> to IItemStack
+[16:53:57.759][ERROR]: ForegoingTweaker.zs:13:95: Could not cast KnownTag<ItemDefinition> to IItemStack
+[16:53:57.759][ERROR]: Scripts are invalid!
+[16:53:57.759][INFO]: Execution for loader 'crafttweaker' completed successfully
+[16:53:57.763][INFO]: This reload was made possible by Jessie Sims and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
